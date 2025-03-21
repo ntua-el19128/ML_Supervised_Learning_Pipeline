@@ -30,5 +30,5 @@ The goal of this project is to train and evaluate classification models using la
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/ml-lab1-eda-classification.git
-   cd ml-lab1-eda-classification
+   git clone https://github.com/your-username/ml_supervised_learning_pipeline.git
+   cd ml_supervised_learning_pipeline
